@@ -1,0 +1,1 @@
+Ce projet constitue mes premiers pas dans l'apprentissage de python. Il va contenir les commandes de base pouvant m'aider à mieux cerner le monde de python. Merci de pouvoir m'aider à aller plus vite en apportant des commentaires à ma façon d'avancer et surtout sur des meilleures attitudes à adopter dans le cadre de ma formation.
